@@ -30,5 +30,5 @@ def downLoad_urls(pages):
 
 
 if __name__ == '__main__':
-    #爬去多少个ip也的代理地址
+    #爬去多少页ip的代理地址
     downLoad_urls(10)
